@@ -1,0 +1,36 @@
+/*
+  Eva Yan
+  January 7 2020
+  CUNY 2X/TTP BOOTCAMP
+*/
+
+.button-container {
+  text-align: center;
+}
+
+button {
+  width: 250px;
+  text-align: center;
+  height: 40px;
+  border-radius: 8px;
+  margin-left: 10px;
+  margin-bottom: 50px;
+}
+
+h1 {
+  color: teal;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  font-size: 45px;
+}
+
+#react {
+  margin-bottom: 0px;
+  font-size: 60px;
+}
+
+p.number {
+  font-size: 50px;
+  margin: 50px;
+  color: teal;
+}
